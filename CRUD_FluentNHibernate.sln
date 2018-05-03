@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_FluentNHibernate", "CRUD_FluentNHibernate\CRUD_FluentNHibernate.csproj", "{66111ED3-82FC-499E-A26A-E6821DC57BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms_CRUD", "WebForms_CRUD\WebForms_CRUD.csproj", "{ABDA6EEA-65F0-45CE-B36F-D23AA4223141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66111ED3-82FC-499E-A26A-E6821DC57BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66111ED3-82FC-499E-A26A-E6821DC57BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66111ED3-82FC-499E-A26A-E6821DC57BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66111ED3-82FC-499E-A26A-E6821DC57BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDA6EEA-65F0-45CE-B36F-D23AA4223141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDA6EEA-65F0-45CE-B36F-D23AA4223141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDA6EEA-65F0-45CE-B36F-D23AA4223141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDA6EEA-65F0-45CE-B36F-D23AA4223141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321583C0-566C-4BE8-A7A9-6FC3F9EF8583}
+	EndGlobalSection
+EndGlobal
